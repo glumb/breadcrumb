@@ -22,7 +22,7 @@ $ npm install vue-bulma-breadcrumb
     </div>
 
     <div class="level-right is-hidden-mobile">
-      <breadcrumb :list="list"><breadcrumb>
+      <breadcrumb :list="list"></breadcrumb>
     </div>
   </nav>
 </template>
